@@ -1,0 +1,103 @@
+{
+  "week": "2026-KW50",
+  "posts": [
+    {
+      "id": "12_ex",
+      "nr": 12,
+      "philosopher": "Hegel",
+      "format": "Frage-Antwort",
+      "payoff_kind": "what?",
+      "tag": "why do you keep bringing up your ex?",
+      "caption": "he's not over it. he's sublating it.",
+      "hashtags": "#philosophymemes #hegel #philosophy #relationships",
+      "source_note": "Hegel, Lectures on the History of Philosophy, Vol. 1, Introduction, übers. E. S. Haldane (Gutenberg #51635)",
+      "items": [
+        {"type": "hook", "text": "me: why do you keep bringing up your ex?\n\nhegel:"},
+        {"type": "passage", "src": "G. W. F. Hegel · Hist. of Philosophy, Intro · tr. E. S. Haldane",
+         "pieces": [
+           {"file": "hegel_history_philosophy_v1_haldane_51635.txt", "start": "THERE are various aspects under which", "end": "which is here to be more clearly expounded."},
+           {"file": "hegel_history_philosophy_v1_haldane_51635.txt", "start": "The acts of thought appear at first", "end": "the labour of all past generations of men."}
+         ]},
+        {"type": "payoff", "text": "what?"}
+      ]
+    },
+    {
+      "id": "13_same-guy",
+      "nr": 13,
+      "philosopher": "Locke",
+      "format": "Frage-Antwort",
+      "payoff_kind": "Pointe",
+      "tag": "are you the same guy from the party?",
+      "caption": "i was getting to the point",
+      "hashtags": "#philosophymemes #locke #philosophy #dating",
+      "source_note": "Locke, An Essay Concerning Human Understanding II.27.11 (englisches Original, Gutenberg #10615)",
+      "items": [
+        {"type": "hook", "text": "her: wait, are you the same guy from the party?\n\nme, after reading locke:"},
+        {"type": "passage", "src": "J. Locke · An Essay Concerning Human Understanding, II.xxvii.11",
+         "pieces": [
+           {"file": "locke_essay_vol1_10615.txt", "start": "This being premised, to find wherein personal identity", "end": "that that action was done."}
+         ]},
+        {"type": "payoff", "text": "she left during \"thinking intelligent being\""}
+      ]
+    },
+    {
+      "id": "14_truth",
+      "nr": 14,
+      "philosopher": "Nietzsche/Kant",
+      "format": "Kontrast",
+      "payoff_kind": "what?",
+      "tag": "philosophers on truth",
+      "caption": "one of them got a second date",
+      "hashtags": "#philosophymemes #nietzsche #kant #philosophy",
+      "source_note": "Nietzsche, Beyond Good and Evil, Preface, übers. H. Zimmern (Gutenberg #4363); Kant, Critique of Pure Reason, Transcendental Logic, Introduction III, übers. J. M. D. Meiklejohn (Gutenberg #4280)",
+      "items": [
+        {"type": "hook", "text": "philosophers on truth"},
+        {"type": "short", "label": "nietzsche:", "text": "Supposing that Truth is a woman—what then?", "src": "F. Nietzsche · Beyond Good and Evil, Preface · tr. H. Zimmern"},
+        {"type": "meme", "text": "kant:"},
+        {"type": "passage", "src": "I. Kant · Critique of Pure Reason, Transc. Logic, Intro III · tr. J. M. D. Meiklejohn",
+         "pieces": [
+           {"file": "kant_critique_meiklejohn.txt", "start": "The old question with which people sought", "end": "no universal test can be demanded, because such a demand is self-contradictory.”"}
+         ]},
+        {"type": "payoff", "text": "what?"}
+      ]
+    },
+    {
+      "id": "15_keys",
+      "nr": 15,
+      "philosopher": "Berkeley",
+      "format": "Frage-Antwort",
+      "payoff_kind": "Pointe",
+      "tag": "have you seen my keys?",
+      "caption": "they exist. somebody just has to perceive them.",
+      "hashtags": "#philosophymemes #berkeley #philosophy #relatable",
+      "source_note": "Berkeley, A Treatise Concerning the Principles of Human Knowledge §3 (englisches Original, Gutenberg #4723)",
+      "items": [
+        {"type": "hook", "text": "me: have you seen my keys?\n\nberkeley:"},
+        {"type": "passage", "src": "G. Berkeley · A Treatise Concerning the Principles of Human Knowledge, §3",
+         "pieces": [
+           {"file": "berkeley_principles_4723.txt", "start": "That neither our thoughts, nor passions", "end": "the minds or thinking things which perceive them."}
+         ]},
+        {"type": "payoff", "text": "so… no?"}
+      ]
+    },
+    {
+      "id": "16_how-much",
+      "nr": 16,
+      "philosopher": "Hegel",
+      "format": "Eskalation",
+      "payoff_kind": "what?",
+      "tag": "how much do i owe you?",
+      "caption": "i just wanted to split the bill",
+      "hashtags": "#philosophymemes #hegel #philosophy #money",
+      "source_note": "Hegel, The Logic (Encyclopaedia) §99 mit Anmerkung, übers. W. Wallace (Gutenberg #55108)",
+      "items": [
+        {"type": "hook", "text": "me: how much do i owe you for dinner?\n\nhegel:"},
+        {"type": "passage", "src": "G. W. F. Hegel · The Logic, §99 · tr. W. Wallace", "shrink": true,
+         "pieces": [
+           {"file": "hegel_logic_wallace.txt", "start": "99.] Quantity is pure being", "end": "the thing still remains what it is.", "fix": [["(i) The expression", "(1) The expression"]]}
+         ]},
+        {"type": "payoff", "text": "what?"}
+      ]
+    }
+  ]
+}
