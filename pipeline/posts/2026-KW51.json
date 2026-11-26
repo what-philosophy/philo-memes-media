@@ -1,0 +1,117 @@
+{
+  "week": "2026-KW51",
+  "posts": [
+    {
+      "id": "19_example",
+      "nr": 19,
+      "philosopher": "Kant",
+      "format": "Meta",
+      "payoff_kind": "what?",
+      "tag": "could you add an example?",
+      "caption": "he said examples would only make it longer",
+      "hashtags": "#philosophymemes #kant #philosophy #studytok",
+      "source_note": "Kant, Critique of Pure Reason, Preface to the First Edition, übers. J. M. D. Meiklejohn (Gutenberg #4280)",
+      "items": [
+        {
+          "type": "hook",
+          "text": "me: could you maybe add an example?\n\nkant, in the preface:"
+        },
+        {
+          "type": "passage",
+          "src": "I. Kant · Critique of Pure Reason, Preface (1781) · tr. J. M. D. Meiklejohn",
+          "pieces": [
+            {
+              "file": "kant_critique_meiklejohn.txt",
+              "start": "I have been almost always at a loss, during the",
+              "end": "judge of its unity and stability."
+            }
+          ]
+        },
+        {
+          "type": "payoff",
+          "text": "what?"
+        }
+      ]
+    },
+    {
+      "id": "20_pizza-or-pasta",
+      "nr": 20,
+      "philosopher": "Locke",
+      "format": "Eskalation",
+      "payoff_kind": "Pointe",
+      "tag": "pizza or pasta?",
+      "caption": "i was exercising my liberty",
+      "hashtags": "#philosophymemes #locke #philosophy #relatable",
+      "source_note": "Locke, An Essay Concerning Human Understanding II.21.48-49 (englisches Original, Gutenberg #10615)",
+      "items": [
+        {
+          "type": "hook",
+          "text": "her: pizza or pasta? just pick one\n\nme, after reading locke:"
+        },
+        {
+          "type": "passage",
+          "src": "J. Locke · An Essay Concerning Human Understanding, II.xxi.48–49",
+          "shrink": true,
+          "pieces": [
+            {
+              "file": "locke_essay_vol1_10615.txt",
+              "start": "There being in us a great many uneasinesses, always soliciting",
+              "end": "according to the last result of a fair examination."
+            },
+            {
+              "file": "locke_essay_vol1_10615.txt",
+              "start": "This is so far from being a restraint or diminution of freedom",
+              "end": "or evil of any action, we were not free."
+            }
+          ]
+        },
+        {
+          "type": "payoff",
+          "text": "she ordered for both of us"
+        }
+      ]
+    },
+    {
+      "id": "21_overview",
+      "nr": 21,
+      "philosopher": "Hegel",
+      "format": "Selbstwiderspruch",
+      "payoff_kind": "what?",
+      "tag": "quick overview?",
+      "caption": "the overview was the whole system",
+      "hashtags": "#philosophymemes #hegel #philosophy #studytok",
+      "source_note": "Hegel, The Logic (Encyclopaedia) §18, übers. W. Wallace (Gutenberg #55108); fix: Gutenberg-Großschreibung der römischen Ziffern II/III wiederhergestellt",
+      "items": [
+        {
+          "type": "hook",
+          "text": "me: can you give me a quick overview?\n\nhegel:"
+        },
+        {
+          "type": "passage",
+          "src": "G. W. F. Hegel · The Logic, §18 · tr. W. Wallace",
+          "pieces": [
+            {
+              "file": "hegel_logic_wallace.txt",
+              "start": "18.] As the whole science, and only the whole",
+              "end": "science of the Idea come back to itself out of that otherness.",
+              "fix": [
+                [
+                  "Ii. The Philosophy of Nature",
+                  "II. The Philosophy of Nature"
+                ],
+                [
+                  "Iii. The Philosophy of Mind",
+                  "III. The Philosophy of Mind"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "payoff",
+          "text": "what?"
+        }
+      ]
+    }
+  ]
+}
